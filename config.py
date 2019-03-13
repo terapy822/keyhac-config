@@ -16,4 +16,5 @@ def configure(keymap):
     keymap_global[ "LAlt-P" ] = "Up"
     keymap_global[ "LAlt-D" ] = "Delete"
     keymap_global[ "LAlt-H" ] = "Back"
+    keymap_global[ "LAlt-K" ] = "Shift-End", "Delete"
 
