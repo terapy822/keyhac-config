@@ -5,7 +5,6 @@ import datetime
 import pyauto
 from keyhac import *
 
-
 def configure(keymap):
     keymap_global = keymap.defineWindowKeymap()
     keymap_global[ "LAlt-A" ] = "Home"
@@ -17,4 +16,4 @@ def configure(keymap):
     keymap_global[ "LAlt-D" ] = "Delete"
     keymap_global[ "LAlt-H" ] = "Back"
     keymap_global[ "LAlt-K" ] = "Shift-End", "Delete"
-
+    keymap_global[ "LAlt" ] = "LCtrl-LAlt" 
