@@ -36,4 +36,4 @@ Enjoy Your Emacs Keybinds ;)
     ~~~
 5. Save the changes.
 7. Press **Win + R** and type `shell:startup` to open a directory `Startup`.
-8. Copy `keyhac.exe` in the extracted directory and paste its shortcut in the `Startup` directory.
+8. Copy `keyhac.exe` in the extracted directory and paste its **shortcut** in the `Startup` directory.
