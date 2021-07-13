@@ -38,3 +38,6 @@ Enjoy Your Emacs Keybinds ;)
 6. Right-click Keyhac icon in the task tray and click **Reload setting**.
 7. Press **Win + R** and type `shell:startup` to open a directory `Startup`.
 8. Copy `keyhac.exe` in the extracted directory and paste its **shortcut** in the `Startup` directory.
+
+## Instruction Video
+https://youtu.be/sIcZa28puws
